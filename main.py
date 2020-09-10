@@ -21,7 +21,7 @@ def getlettergrade(grade):
    return "C"
   elif grade >= 60.0 :
    return "D"
-  elif grade < 60.0 :
+  elif grade <  60.0 :
    return "F"
    
 
